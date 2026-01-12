@@ -1,1 +1,0 @@
-# digitora-demo-morinaga
