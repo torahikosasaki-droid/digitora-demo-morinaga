@@ -25,3 +25,7 @@ dist-ssr
 
 # Temp files
 tmpclaude-*
+
+# TypeScript build info
+*.tsbuildinfo
+vite.config.d.ts
